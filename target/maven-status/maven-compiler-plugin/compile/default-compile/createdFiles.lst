@@ -1,0 +1,6 @@
+iot\air\quality\model\Data.class
+iot\air\quality\model\Device.class
+iot\air\quality\config\CloudDataSourceConfig.class
+iot\air\quality\controller\HelloController.class
+iot\air\quality\config\EclipseLinkJpaConfiguration.class
+iot\air\quality\Application.class

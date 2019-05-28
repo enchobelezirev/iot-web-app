@@ -1,0 +1,9 @@
+---
+applications:
+- name: iot-web-app
+  memory: 768M
+  path: ../../../target/iot-web-app-0.0.1-SNAPSHOT.jar
+  services:
+    - iot-air-quaility-db
+  env:
+    SPRING_PROFILES_ACTIVE: cloud
